@@ -1,5 +1,3 @@
-I reviewed your **lab.ipynb**. It is a student performance data analysis notebook. Based on the findings and workflow, here is a professional GitHub README:
-
 ````markdown
 # 📊 Student Performance Data Analysis
 
@@ -202,10 +200,6 @@ Student-Performance-Analysis/
 * Perform advanced statistical testing
 
 ---
-
-## 👨‍💻 Author
-
-**Your Name**
 
 Data Analysis | Python | Machine Learning
 
